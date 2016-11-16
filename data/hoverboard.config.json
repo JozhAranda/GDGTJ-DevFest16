@@ -156,32 +156,25 @@
     ]
   },
   "tickets": {
-    "url": "http://2event.com/events/630032",
+    "url": "https://www.eventbrite.com/e/gdg-devfest-tijuana-2016-tickets-29323082128",
     "elements": [
       {
-        "name": "student-ticket",
-        "price": 500,
-        "currency": "₴",
-        "starts": "student-ticket-starts",
-        "ends": "student-ticket-ends",
-        "info": "student-ticket-info",
-        "soldOut": false
-      },
-      {
-        "name": "early-ticket",
-        "price": 750,
-        "currency": "₴",
+        "name": "conferencias-ticket",
+        "price": "GRATIS",
+        "currency": "",
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
         "info": "early-ticket-info",
-        "soldOut": true
+        "soldOut": false 
       },
       {
-        "name": "lazy-ticket",
-        "price": 1000,
-        "currency": "₴",
-        "starts": "lazy-ticket-starts",
-        "ends": "lazy-ticket-ends",
+        "name": "hackaton-ticket",
+        "price": "GRATIS",
+        "currency": "",
+        "starts": "early-ticket-starts",
+        "ends": "early-ticket-ends",
+        "info": "early-ticket-info",
+        "details":  "student-ticket-info",
         "soldOut": false
       }
     ]
