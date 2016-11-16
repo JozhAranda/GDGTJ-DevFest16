@@ -242,15 +242,15 @@
   },
   "location": {
     "apiKey": "",
-    "link": "https://www.facebook.com/expopivdennij",
+    "link": "https://www.facebook.com/pages/Teatro-Cala-fornix",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 32.531044,
+      "longitude": -116.987100,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 32.531044,
+      "longitude": -116.987100
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
