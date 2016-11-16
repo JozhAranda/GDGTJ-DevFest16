@@ -19,15 +19,13 @@
 <dom-module id="home-page">
 
   <template>
-
+    <a id="mlh-trust-badge" style="display:block;max-width:100px;min-width:60px;position:fixed;right:50px;top:0;width:10%;z-index:10000" href="https://mlh.io/seasons/na-2017/events?utm_source=na-2017&utm_medium=TrustBadge&utm_campaign=na-2017&utm_content=white" target="_blank"><img src="https://s3.amazonaws.com/logged-assets/trust-badge/2017/white.svg" alt="Major League Hacking 2017 Hackathon Season" style="width:100%"></a>
     <statistics-block app="{{app}}" cascaded></statistics-block>
     <featured-people app="{{app}}" people="{{people}}" cascaded></featured-people>
-    <featured-videos app="{{app}}" cascaded></featured-videos>
-    <call-to-action app="{{app}}" cascaded></call-to-action>
     <about-block app="{{app}}" cascaded></about-block>
     <photo-block app="{{app}}" cascaded></photo-block>
     <tickets-block app="{{app}}" cascaded></tickets-block>
-    <latest-posts app="{{app}}" posts="{{posts}}" cascaded></latest-posts>
+    
     <social-feed app="{{app}}" cascaded></social-feed>
     <map-block app="{{app}}" selected="{{selected}}" cascaded></map-block>
     <logos-block app="{{app}}" cascaded></logos-block>
