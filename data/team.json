@@ -1,177 +1,106 @@
 [
   {
-    "title": "Core Team",
+    "title": "Miembros GDG Tijuana",
     "members": [
       {
-        "name": "Oleh Zasadnyy",
-        "photoUrl": "/images/people/oleh_zasadnyy.jpg",
+        "name": "Erick Aguayo",
+        "photoUrl": "/images/people/erickaguayo.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+OlehZasadnyy",
+            "link": "https://plus.google.com/+ErickAguayo",
             "name": "Google+"
           },
           {
             "icon": "facebook",
-            "link": "https://www.facebook.com/oleh.zasadnyy",
+            "link": "https://www.facebook.com/erickbuzz",
             "name": "Facebook"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/ozasadnyy",
+            "link": "https://twitter.com/elerickav",
             "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://o.zasadnyy.com/",
-            "name": "Blog"
           }
         ],
         "title": "Website and sponsors"
       },
       {
-        "name": "Sofiya Huts",
-        "photoUrl": "/images/people/sofiya_huts.jpg",
+        "name": "Joshua Aranda",
+        "photoUrl": "/images/people/joshuaaranda.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+SofiaHuts",
+            "link": "https://plus.google.com/+JoshuaAranda",
             "name": "Google+"
           },
           {
             "icon": "facebook",
-            "link": "https://www.facebook.com/sophie.huts.7",
+            "link": "https://www.facebook.com/jozh.aranda",
             "name": "Facebook"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/jozharanda",
+            "name": "Twitter"
           }
         ],
         "title": "Social and media"
       },
       {
-        "name": "Vitaliy Zasadnyy",
-        "photoUrl": "/images/people/vitaliy_zasadnyy.jpg",
+        "name": "Luis Jimenez",
+        "photoUrl": "/images/people/luisjimenez.jpg",
         "socials": [
           {
-            "icon": "linkedin",
+            "icon": "gplus",
+            "link": "https://plus.google.com/+LuisJimenez1110",
+            "name": "Linkedin"
+          },
+          {
+            "icon": "facebook",
             "link": "https://www.linkedin.com/in/zasadnyy",
             "name": "Linkedin"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/zasadnyy",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://v.zasadnyy.com/",
-            "name": "Blog"
-          }
-        ],
-        "title": "Speakers"
-      },
-      {
-        "name": "Marta Maxymiak",
-        "photoUrl": "/images/people/marta_maxymiak.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/104036874811391520583",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/marta.maxymiak",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Party and happiness"
-      },
-      {
-        "name": "Ostap Andrusiv",
-        "photoUrl": "/images/people/ostap_andrusiv.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://google.com/+OstapAndrusiv",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/ostap.andrusiv",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/p1f",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://andrusiv.com/",
-            "name": "Blog"
-          }
-        ],
-        "title": "Sponsors"
-      },
-      {
-        "name": "Vasylyna Mytsak",
-        "photoUrl": "/images/people/vasylyna_mytsak.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+ВасилинаМицак",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/vasylyna.mytsak",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Party and happiness"
-      },
-      {
-        "name": "Volodya Karpliuk",
-        "photoUrl": "/images/people/volodya_karpliuk.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+VolodyaKarpliuk23",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/volodya.karpluk",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/keyv23",
+            "link": "https://twitter.com/herecomeslalo",
             "name": "Twitter"
           }
         ],
         "title": "Speakers"
       },
       {
-        "name": "Diana Pinchuk",
-        "photoUrl": "/images/people/diana_pinchuk.jpg",
+        "name": "Sergio Ramirez",
+        "photoUrl": "/images/people/sergioramirez.jpg",
+        "socials": [
+          {
+            "icon": "facebook",
+            "link": "hhttps://www.facebook.com/sergioramirez1996",
+            "name": "Facebook"
+          }
+        ],
+        "title": "Party and happiness"
+      },
+      {
+        "name": "Josué García",
+        "photoUrl": "/images/people/josuegarcia.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+DianaPinchuk",
+            "link": "https://plus.google.com/+JosueGarciali",
             "name": "Google+"
           },
           {
             "icon": "facebook",
-            "link": "https://www.facebook.com/diana.pinchuk.9",
+            "link": "https://www.facebook.com/josuegarciamx",
             "name": "Facebook"
           }
         ],
-        "title": "Social and media"
+        "title": "Party and happiness"
       }
     ]
   },
   {
-    "title": "Program Committee",
+    "title": "Organizadores externos",
     "members": [
       {
         "name": "Ihor Dvoretskyi",
