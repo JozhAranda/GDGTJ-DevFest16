@@ -107,7 +107,7 @@
         },
         {
           "text": "cod",
-          "url": "/cod/"
+          "url": "https://static.mlh.io/docs/mlh-code-of-conduct.pdf"
         },
         {
           "text": "google-developers",
@@ -150,8 +150,8 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "GDG Tijuana",
+        "url": "https://www.facebook.com/GDGTijuana"
       }
     ]
   },
