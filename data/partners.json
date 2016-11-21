@@ -16,6 +16,16 @@
         "name": "Google",
         "url": "https://www.google.com.ua/intl/en/about/",
         "logoUrl": "../images/logos/google.svg"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com",
+        "logoUrl": "../images/logos/github-logo.svg"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "http://www.bloomberg.com",
+        "logoUrl": "../images/logos/bloomberg-logo.svg"
       }
     ]
   }
