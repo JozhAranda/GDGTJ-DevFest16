@@ -22,7 +22,7 @@
             "name": "Twitter"
           }
         ],
-        "title": "Website and sponsors"
+        "title": "Cloud Technologies"
       },
       {
         "name": "Joshua Aranda",
@@ -66,7 +66,7 @@
             "name": "Twitter"
           }
         ],
-        "title": "Speakers"
+        "title": "Speakers and Web Developer"
       },
       {
         "name": "Sergio Ramirez",
@@ -95,51 +95,7 @@
             "name": "Facebook"
           }
         ],
-        "title": "Party and happiness"
-      }
-    ]
-  },
-  {
-    "title": "Organizadores externos",
-    "members": [
-      {
-        "name": "Ihor Dvoretskyi",
-        "photoUrl": "/images/people/ihor_dvoretskyi.jpg",
-        "socials": [
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/idvoretskyi",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/idvoretskyi",
-            "name": "Twitter"
-          }
-        ],
-        "title": "Cloud stream"
-      },
-      {
-        "name": "Dmytro Danylyk",
-        "photoUrl": "/images/people/dmytro_danylyk.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+DmytroDanylyk",
-            "name": "Google+"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/dmytrodanylyk",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://www.dmytrodanylyk.com/#/about",
-            "name": "Website"
-          }
-        ],
-        "title": "Android Stream"
+        "title": "Enterpreneur Life"
       }
     ]
   }
