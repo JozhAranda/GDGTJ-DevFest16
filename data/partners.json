@@ -26,7 +26,13 @@
         "name": "Bloomberg",
         "url": "http://www.bloomberg.com",
         "logoUrl": "../images/logos/bloomberg-logo.svg"
+      },
+      {
+        "name": "Major League Hacking",
+        "url": "https://mlh.io",
+        "logoUrl": "../images/logos/mlh-logo-color.svg"
       }
+
     ]
   }
 ]
